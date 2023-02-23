@@ -2,7 +2,17 @@
 
 ## 更新顺序由上至下(越靠上越新
 
-[AIGC-零门槛玩转GPT微信聊天](ChatGPT文章快讯.assets\AIGC-零门槛玩转GPT微信聊天-V1.0-寒树.pdf) 
+[Multimodal Chain-of-Thought Reasoning in Language Models](https://arxiv.org/pdf/2302.00923.pdf)
+
+[Applying To College? This Is How ChatGPT Is Affecting College Admissions | Forbes](https://timelineupdates.com/applying-to-college-this-is-how-chatgpt-is-affecting-college-admissions-forbes/)
+
+[stackGPT](https://stackoverflow.gg/)
+
+[openai examples](https://platform.openai.com/examples)
+
+[如何认识理解和用好ChatGPT.pdf](ChatGPT最新资讯.assets\如何认识理解和用好ChatGPT.pdf) 
+
+[AIGC-零门槛玩转GPT微信聊天](ChatGPT最新资讯.assets\AIGC-零门槛玩转GPT微信聊天-V1.0-寒树.pdf) 
 
 [What Is ChatGPT Doing … and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
 
