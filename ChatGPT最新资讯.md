@@ -2,6 +2,22 @@
 
 ## 更新顺序由上至下(越靠上越新
 
+[Sam Altman：万物摩尔定律，人人富裕的未来](https://mp.weixin.qq.com/s/iF6JIJC5Oh_Os_oQWCsmxA)
+
+[AI免费设计LOGO效果惊艳，雷军200万花早了](https://mp.weixin.qq.com/s/aEI-Fb84yRSmjYzn2NY33Q)
+
+[ChatGPT大降价背后，连锁反应来得比预期更早](https://36kr.com/p/2157158530203144)
+
+[微软杀疯了，几行代码创建私人定制ChatGPT，AI办公软件帝国来了](https://36kr.com/p/2160965156594179)
+
+[年薪百万，只需陪聊，ChatGPT 正在带起一种很新的职业](https://36kr.com/p/2160039766302985)
+
+[一觉醒来 ChatGPT 聊天记录全没了...](https://mp.weixin.qq.com/s/JE1M9lWpGBXQiTWXsBkjzA)
+
+[收藏了！GPT技巧揭秘：轻松建立个人智能知识库！](https://mp.weixin.qq.com/s/4ylDF5oW7u8RWDSd7emXgA)
+
+[ChatGPT’s History Vanishes: How to Recover Your Lost Data](https://medium.com/gptcommands/chatgpts-history-vanishes-how-to-recover-your-lost-data-d08f42fc87ee)
+
 [Meta开源的ChatGPT平替到底好不好用？测试结果、加料改装方法已出炉，2天5.2k星](https://mp.weixin.qq.com/s/kImwfWWtXMmEDVOhJZ4dJg)
 
 [谁发表了最具影响力的AI研究？谷歌遥遥领先，OpenAI成果转化率完胜DeepMind](https://mp.weixin.qq.com/s/_6EEYJal_ryTPDQvqdyvtQ)
