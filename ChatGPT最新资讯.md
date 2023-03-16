@@ -6,6 +6,22 @@
 
 
 
+
+
+
+
+
+
+[清华朱军团队开源首个基于Transformer的多模态扩散大模型，文图互生、改写全拿下](https://mp.weixin.qq.com/s/B68hXlFxA9L5jiWiMrEEiA)
+
+[ChatGPT开源替代来了！参数量200亿，在4300万条指令上微调而成](https://mp.weixin.qq.com/s/9Av3nhJLrcYAsBW9vVGjTw)
+
+[LeCun狂赞：600刀GPT-3.5平替！ 斯坦福70亿参数「羊驼」爆火，LLaMA杀疯了](https://mp.weixin.qq.com/s/ybVYZumZhk_yM_w0U1wXww)
+
+[GPT-4震撼来袭：用GPT-4翻译了GPT-4发布全文，值得细读](https://mp.weixin.qq.com/s/5drjNTGE3R-VqNH5QCvmFA)
+
+[AI 里程碑：GPT-4 发布了！](https://mp.weixin.qq.com/s/n8ttVSJmd44sBdpnL3Whxw)
+
 [微软再扔AI聊天画图炸弹，视觉模型加持ChatGPT，Visual ChatGPT横空出世](https://36kr.com/p/2165211601056265)
 
 [A step-by-step guide to building a chatbot based on your own documents with GPT](A step-by-step guide to building a chatbot based on your own documents with GPT)
