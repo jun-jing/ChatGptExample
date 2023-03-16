@@ -2,6 +2,26 @@
 
 ## 更新顺序由上至下(越靠上越新
 
+
+
+
+
+[微软再扔AI聊天画图炸弹，视觉模型加持ChatGPT，Visual ChatGPT横空出世](https://36kr.com/p/2165211601056265)
+
+[A step-by-step guide to building a chatbot based on your own documents with GPT](A step-by-step guide to building a chatbot based on your own documents with GPT)
+
+[物理界炸了！21℃实现室温超导，Nature凌晨刊发撤稿团队新研究，赌城现场被人群挤爆](https://mp.weixin.qq.com/s/oldH5Ke4Eqt8iN9UKqxaPg)
+
+[100 Useful Chat GPT Prompts to Boost Your Creativity and Productivity](https://plainenglish.io/blog/100-useful-chat-gpt-prompts-to-boost-your-creativity-and-productivity)
+
+[【工具】不只是chatGPT，还有这些AI工具（2）](https://mp.weixin.qq.com/s/2e4XWyf83d_CtXL2hzAQwg)
+
+[【工具】十二个AIGC营销文案生成神器](https://mp.weixin.qq.com/s/ZzqLmfxnO3hdsZO8XbT6AQ)
+
+[Prompt Engineering全面自动化：LeCun看了沉默，ChatGPT看了直呼内行](https://mp.weixin.qq.com/s/aj8Ls463jpF92ssn6Acwzg)
+
+[ChatGPT 标注指南来了！数据是关键](https://mp.weixin.qq.com/s/b9QnMtHj6yJfN0goBRSCXg)
+
 [Sam Altman：万物摩尔定律，人人富裕的未来](https://mp.weixin.qq.com/s/iF6JIJC5Oh_Os_oQWCsmxA)
 
 [AI免费设计LOGO效果惊艳，雷军200万花早了](https://mp.weixin.qq.com/s/aEI-Fb84yRSmjYzn2NY33Q)
