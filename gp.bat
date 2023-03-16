@@ -5,3 +5,4 @@ git commit -m "update"
 git push
 
 sleep 2
+pause
