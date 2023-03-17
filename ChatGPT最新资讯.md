@@ -8,9 +8,9 @@
 
 
 
+[文心一言云服务邀您测试](https://cloud.baidu.com/survey_summit/wenxin.html)
 
-
-
+[AI 全家桶：Microsoft 365 Copilot](https://mp.weixin.qq.com/s?__biz=MzIzNjE2NTI3NQ==&mid=2247485738&idx=1&sn=f63d4ad86e7d3b500a5dafc83f284426&chksm=e8dd48dedfaac1c840eee6dade331b27ab3cfe3402f89d734ffaf00a6babcd4c0600bf8f781e&mpshare=1&scene=1&srcid=0317RUoel3sMmPVty4GNbUHd&sharer_sharetime=1679022630746&sharer_shareid=65ef9645adfc5dfb69e9040414450383#rd)
 
 [清华朱军团队开源首个基于Transformer的多模态扩散大模型，文图互生、改写全拿下](https://mp.weixin.qq.com/s/B68hXlFxA9L5jiWiMrEEiA)
 
