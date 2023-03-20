@@ -6,7 +6,19 @@
 
 
 
+[突发！李开复宣布加入中文版 ChatGPT大战，要抓住比移动互联网大 10 倍的机会](https://mp.weixin.qq.com/s/ORr_FRRl4LooZ04O1ySAlg)
 
+[俞敏洪：宁愿当没钱的流浪汉，周围的企业家都没有高质量生活](https://m.nbd.com.cn/articles/2023-03-18/2716549.html)
+
+[GPT-4外逃计划曝光！斯坦福教授发现它正引诱人类帮助，网友：灭绝之门](https://mp.weixin.qq.com/s/ldB5oSaFkoh06K8tGbYGRw)
+
+[国内免登录免注册的chatGPT套壳网站大全【 超全整理】](https://mp.weixin.qq.com/s?__biz=MzIwNTE5NTI1MA==&mid=2651242598&idx=1&sn=1041c9a4238600ccb7b102ccc3015e39&chksm=8cc6f2fbbbb17bed3012f272ef2ec88221cf453fd98909c1e9f15a63f68a046158590d9e4b70&mpshare=1&scene=1&srcid=0320EHaIXGm9bpWBhXmxWeXu&sharer_sharetime=1679292172473&sharer_shareid=7d135e927ec47330f31790d618acd43d#rd)
+
+[ChatGPT大升级？它去考研能考上物理所吗？](https://mp.weixin.qq.com/s/FICthjE9X4dzCWePUTn_aQ)
+
+[如何搭建一个 ChatGPT 应用？](https://mp.weixin.qq.com/s/9RNO_36dY6HtFhh0kkWLCw)
+
+[无需豪掷数亿造超算，用笔记本就能运行 650 亿参数大模型：这位程序员仅用一晚上就做到了](https://www.infoq.cn/article/qucNy1wcUq87HCSTjddQ)
 
 [文心一言云服务邀您测试](https://cloud.baidu.com/survey_summit/wenxin.html)
 
