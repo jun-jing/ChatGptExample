@@ -4,7 +4,29 @@
 
 
 
+[Midjourney V5 比 V4 更好吗？Prompt 全公开（上篇）](https://mp.weixin.qq.com/s/CBW5zkGcZbJwlEV7_ElrKw)
 
+[Midjourney V5 比 V4 更好吗？Prompt 全公开（下篇）](https://mp.weixin.qq.com/s/UnSdc_kmzRqX1dzP7iGRNA)
+
+[ChatGPT&腾讯&微信生态的一些想法](https://mp.weixin.qq.com/s/_G9Bi-QNwkwSyzKqLApFDg)
+
+[刚刚，GitHub发布了Copilot X，增加了全新的对话模式](https://mp.weixin.qq.com/s/Bncw83JVsiNiNauqhM_Zmw)
+
+[AI 又双叒叕来了！](https://mp.weixin.qq.com/s/xtZea0E0n0Td21a7d_XzNA)
+
+[一句话拍大片，导演末日来了！Gen-2震撼发布，科幻日系二次元统统拿捏](https://mp.weixin.qq.com/s/up5n6ZUP6SmSfRNpRX37qQ)
+
+[老黄手捧ChatGPT专用「核弹」炸场，英伟达H100至尊版速度提10倍！](https://mp.weixin.qq.com/s/6mOh0tnp3GuMhMNUK1Ob6g)
+
+[谷歌版ChatGPT Bard开放测试！我们已经体验上了](https://mp.weixin.qq.com/s/mbxMDuPaQLt5uXGh9kDtiQ)
+
+[OpenAI重磅研究：ChatGPT可能影响80%工作岗位，收入越高影响越大](https://mp.weixin.qq.com/s/lbWsWSLoOGtzcTgzJavJAw)
+
+[海外ChatGPT公司有哪些已经落地的商业模式（深度）| 国君计算机](https://mp.weixin.qq.com/s/NA57JFexXYw6NsGAm6wV0Q)
+
+[GPT-4加持的ChatGPT，逆天了！支持多模态,完虐标准化考试！学起来，不要让用AI的“人”取代了你～](https://mp.weixin.qq.com/s/Uwlk2-lJBn10ghZhWgcMRQ)
+
+[AI 驱动开发：GitHub Copilot X](https://mp.weixin.qq.com/s/Ek7gk3pNqNv6WJGIxy16PQ)
 
 [突发！李开复宣布加入中文版 ChatGPT大战，要抓住比移动互联网大 10 倍的机会](https://mp.weixin.qq.com/s/ORr_FRRl4LooZ04O1ySAlg)
 
