@@ -4,6 +4,12 @@
 
 
 
+[Main Text (Economics of ChatGPT) SSRN.pdf](ChatGPT最新资讯.assets\Main Text (Economics of ChatGPT) SSRN.pdf) 
+
+[The Big Book of Prompts-AiTuts.pdf](ChatGPT最新资讯.assets\The Big Book of Prompts-AiTuts.pdf) 
+
+[ChatGPT Shortcut](https://newzone.top/chatgpt/cn/)
+
 [Midjourney V5 比 V4 更好吗？Prompt 全公开（上篇）](https://mp.weixin.qq.com/s/CBW5zkGcZbJwlEV7_ElrKw)
 
 [Midjourney V5 比 V4 更好吗？Prompt 全公开（下篇）](https://mp.weixin.qq.com/s/UnSdc_kmzRqX1dzP7iGRNA)
