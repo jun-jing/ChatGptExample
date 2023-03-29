@@ -1,5 +1,9 @@
 # ChatGPT文章快讯
 
+## ChatGpt插件:
+
+![img](ChatGPT文章快讯.assets/75&e=1682870399&s=tttvtytvymmjtmy&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zDj2QU3RjYfUDqy32qff_48STelAY=.jpeg)
+
 ![image-20230308133000513](ChatGPT文章快讯.assets/image-20230308133000513.png)
 
 ![img](ChatGPT文章快讯.assets/75&e=1682870399&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zDwutFLfc67_nSukh2R4u1ldi7qCY=.jpeg)

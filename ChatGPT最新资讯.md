@@ -4,6 +4,36 @@
 
 
 
+
+
+[AI 浪潮下的一些浅思](https://mp.weixin.qq.com/s/1TYrtufxtLcMy0RolNAbhg)
+
+[**水煮三国：把梳子卖给和尚**](http://www.0.ggyiye.com/blog/user1/cloudy/archives/2010/1286.html)
+
+[技术陷阱：从工业革命到AI时代，技术创新下的资本、劳动与权力](https://weread.qq.com/book-detail?type=1&senderVid=349097983&v=39d325b0727edbf239dd46fk6bb4288042d316bb61e34a1)
+
+[SpaceX计划今年将开始用T-Mobile测试Starlink卫星到蜂窝服务](https://mp.weixin.qq.com/s/O_yF8Wv_znudp8n9utI0dQ)
+
+[SeeDAO | 创作者模式新玩法：通过代币启动社区](https://mp.weixin.qq.com/s/yoXa2IuAA4B7eQ0EAdQg4A)
+
+[chatGPT节省时间帮你读研报，年报，提取文章重点](https://mp.weixin.qq.com/s/HY_E6y2YL1qv46zPFLE7Bw)
+
+[人工智能时代已经开始 | 盖茨笔记](https://mp.weixin.qq.com/s/pYjY_LT8I33YqCn415AUAA)
+
+[AI狂飙的时代，人还有价值吗？](https://mp.weixin.qq.com/s/7H1FrwbQvsh0HD9z90L0wg)
+
+[No Coding Required: Integrate ChatGPT with Telegram in Minutes.](https://medium.com/@abraaorl/no-coding-required-integrate-chatgpt-with-telegram-in-minutes-73b7cbf0477f)
+
+[工业AI也将迎来「ChatGPT时刻」](https://mp.weixin.qq.com/s/fkxqFd0LUBjmoh6mhPhNfg)
+
+[李开复「关门弟子」创业！AI自动化助手一站式搞定，入局大模型的另一种选择](https://mp.weixin.qq.com/s/Y5kta3qXZvgUJq0cLswB0g)
+
+[首个超大规模GAN模型！生成速度比Diffusion快20+倍，0.13秒出图，最高支持1600万像素](https://mp.weixin.qq.com/s/yDzcAo3yeueUNQtKU6lKJA)
+
+[ChatGPT 标注指南来了！数据是关键](https://mp.weixin.qq.com/s/b9QnMtHj6yJfN0goBRSCXg)
+
+[GPT-4创造者：第二次改变AI浪潮的方向](https://mp.weixin.qq.com/s/rZBEDlxFVsVXoL5YUVU3XQ)
+
 [Main Text (Economics of ChatGPT) SSRN.pdf](ChatGPT最新资讯.assets\Main Text (Economics of ChatGPT) SSRN.pdf) 
 
 [The Big Book of Prompts-AiTuts.pdf](ChatGPT最新资讯.assets\The Big Book of Prompts-AiTuts.pdf) 
