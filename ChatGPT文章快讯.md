@@ -1,5 +1,17 @@
 # ChatGPT文章快讯
 
+
+
+![img](ChatGPT文章快讯.assets/1&e=1685548799&s=tttvtytvymmjtmy&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zDd979wG_-dgE5yTb-HB4xX8917Og=.jpeg)
+
+![img](ChatGPT文章快讯.assets/75&e=1685548799&s=tttvtytvymmjtmy&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zDz_xmCFNi7F63x2lKJLcSEsqQewU=.jpeg)
+
+![img](ChatGPT文章快讯.assets/75&e=1685548799&s=tttvtytvymmjtmy&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zDwtOKLjhWnwy9lEKSW6iWfzPFhKU=.jpeg)
+
+## ChatGpt新插件:
+
+![img](ChatGPT文章快讯.assets/1&e=1685548799&s=tttvtytvymmjtmy&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zDQ9eZZW9snK5pp-ohg1KMxmRnWfE=.jpeg)
+
 ## ChatGpt插件:
 
 ![img](ChatGPT文章快讯.assets/75&e=1682870399&s=tttvtytvymmjtmy&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zDj2QU3RjYfUDqy32qff_48STelAY=.jpeg)

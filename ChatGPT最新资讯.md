@@ -6,6 +6,28 @@
 
 
 
+[Which Jobs Will AI Replace? These 4 Industries Will Be Heavily Impacted](https://www.forbes.com/sites/ariannajohnson/2023/03/30/which-jobs-will-ai-replace-these-4-industries-will-be-heavily-impacted/?sh=6fdf67c35957)
+
+[赵汀阳：GPT在哪些问题上逼得思想无路可走？｜热点](https://mp.weixin.qq.com/s?__biz=MzA4MjcxMDEwNQ%3D%3D&mid=2686324112&idx=1&sn=3dc2ad668f92f88e8243970dcd07f939&scene=45#wechat_redirect)
+
+[斯坦福2023 AI指数报告出炉！中国霸榜AI顶会，中科院论文发表量世界第一](https://mp.weixin.qq.com/s/bNAKvw7piQq5zxVbtTVzgA)
+
+[突发！ChatGPT Plus停售](https://mp.weixin.qq.com/s/jRACvhd64Oos47r8og55aw)
+
+[谷歌最强AI超算碾压英伟达A100！TPU v4性能提升10倍，细节首次公开](https://mp.weixin.qq.com/s/iIJgUwCfupZZBTb_AYNuZQ)
+
+[ChatGPT调研报告：发展到今天这一步，哪个职业最慌？](https://mp.weixin.qq.com/s/E24FOWuq4zKL2WC3F60VGg)
+
+[AIGC|探索AIGC在网易严选中的应用](https://mp.weixin.qq.com/s/GargWzAGH7QyRanIgZxiCQ)
+
+[ChatGPT会取代Google，成为互联网的第一入口｜万字深度长文](https://mp.weixin.qq.com/s/-OID6bcmaoojo2sNJrF5Yw)
+
+[企业级 AI 研发的正确姿势：开源 LLM + LoRA轻松提效](https://mp.weixin.qq.com/s/D2JE1fcGc97BG16v6BEySg)
+
+[认知 ChatGPT 的过程就是消除偏见的过程](https://mp.weixin.qq.com/s/ogBtQRo7ihTz0AQBi9S_7Q)
+
+[CV不存在了？Meta发布「分割一切」AI 模型，CV或迎来GPT-3时刻](https://mp.weixin.qq.com/s/-LWG3rOz60VWiwdYG3iaWQ)
+
 [AI 浪潮下的一些浅思](https://mp.weixin.qq.com/s/1TYrtufxtLcMy0RolNAbhg)
 
 [**水煮三国：把梳子卖给和尚**](http://www.0.ggyiye.com/blog/user1/cloudy/archives/2010/1286.html)
