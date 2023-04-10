@@ -8,6 +8,14 @@
 
 
 
+[Chroma 筹集了 1800 万美元的种子轮融资](https://www.trychroma.com/blog/seed)
+
+[吴军：ChatGPT七问七答](https://mp.weixin.qq.com/s?__biz=MzA3NjcxMjIxNQ==&mid=2650344038&idx=2&sn=cd608f05174bf7fba898dbe190805b26&scene=21#wechat_redirect)
+
+[吴军博士：ChatGPT不算新技术革命，带不来什么新机会](https://mp.weixin.qq.com/s/AuIVn4bS4JoHj8xMJOsqRQ)
+
+[世界正被 AI 重塑，一口气看完这周的 15 件大事｜Hunt Good 周报](https://mp.weixin.qq.com/s/Ij6Uf8V5UPfPLLFMrl48Jw)
+
 [AI合同工具如何帮助你节省时间和金钱.pdf](ChatGPT最新资讯.assets\AI合同工具如何帮助你节省时间和金钱.pdf) 
 
 [ChatGPT帮助招聘人员寻找候选人的5种方式.pdf](ChatGPT最新资讯.assets\ChatGPT帮助招聘人员寻找候选人的5种方式.pdf) 
