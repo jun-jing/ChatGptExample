@@ -2,9 +2,35 @@
 
 ## 更新顺序由上至下(越靠上越新
 
+ [《投资尽职调查：投资逻辑、尽调方法、实战案例》.pdf](ChatGPT最新资讯.assets\《投资尽职调查：投资逻辑、尽调方法、实战案例》.pdf) 
 
 
 
+
+
+[AI合同工具如何帮助你节省时间和金钱.pdf](ChatGPT最新资讯.assets\AI合同工具如何帮助你节省时间和金钱.pdf) 
+
+[ChatGPT帮助招聘人员寻找候选人的5种方式.pdf](ChatGPT最新资讯.assets\ChatGPT帮助招聘人员寻找候选人的5种方式.pdf) 
+
+[生成式人工智能将如何改变销售.pdf](ChatGPT最新资讯.assets\生成式人工智能将如何改变销售.pdf) 
+
+[挑选合适的生成式AI项目的框架.pdf](ChatGPT最新资讯.assets\挑选合适的生成式AI项目的框架.pdf) 
+
+[ChatGPT将如何彻底改变经济 _ 麻省理工科技评论.pdf](ChatGPT最新资讯.assets\ChatGPT将如何彻底改变经济 _ 麻省理工科技评论.pdf) 
+
+[154页微软GPT研究报告全中文版.pdf](ChatGPT最新资讯.assets\154页微软GPT研究报告全中文版.pdf) 
+
+[如何使用AI工具设计图画书-ChatGPT 和 Midjourney（带有提示的分步指南）.pdf](ChatGPT最新资讯.assets\如何使用AI工具设计图画书-ChatGPT 和 Midjourney（带有提示的分步指南）.pdf) 
+
+[deloitte-cn-tmt-ai-basic-data-services-zh-230309.pdf](ChatGPT最新资讯.assets\deloitte-cn-tmt-ai-basic-data-services-zh-230309.pdf) 
+
+[What Is ChatGPT Doing … and Why Does It Work_—Stephen Wolfram Writings.pdf](ChatGPT最新资讯.assets\What Is ChatGPT Doing … and Why Does It Work_—Stephen Wolfram Writings.pdf) 
+
+[商汤-人工智能纪要-20230403.pdf](ChatGPT最新资讯.assets\商汤-人工智能纪要-20230403.pdf) 
+
+[ChatGPT将改变教育，而不是摧毁它.pdf](ChatGPT最新资讯.assets\ChatGPT将改变教育，而不是摧毁它.pdf) 
+
+[认知 ChatGPT 的过程就是消除偏见的过程](https://mp.weixin.qq.com/s/ogBtQRo7ihTz0AQBi9S_7Q)
 
 [Which Jobs Will AI Replace? These 4 Industries Will Be Heavily Impacted](https://www.forbes.com/sites/ariannajohnson/2023/03/30/which-jobs-will-ai-replace-these-4-industries-will-be-heavily-impacted/?sh=6fdf67c35957)
 
