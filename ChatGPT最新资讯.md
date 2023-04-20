@@ -10,6 +10,22 @@
 
 
 
+[ChatGPT认知白皮书.pdf](ChatGPT最新资讯.assets\ChatGPT认知白皮书.pdf) 
+
+[20230417-中航证券-中航证券AIGC行业深度报告：六问六答，“AI 应用”投资框架.pdf](ChatGPT最新资讯.assets\20230417-中航证券-中航证券AIGC行业深度报告：六问六答，“AI 应用”投资框架.pdf) 
+
+[20230325-浙商证券-浙商证券AI行业深度报告：ChatGPT，AI模型框架研究.pdf](ChatGPT最新资讯.assets\20230325-浙商证券-浙商证券AI行业深度报告：ChatGPT，AI模型框架研究.pdf) 
+
+[极限体验：AI 无服务运行！](https://mp.weixin.qq.com/s/TJ8nQ5ChoxSxE-ZgQvVqVg)
+
+[StableLM 开源: Stability AI 发布可商用语言模型！](https://mp.weixin.qq.com/s?__biz=MzIzNjE2NTI3NQ==&mid=2247486123&idx=1&sn=41acac97713efcbdfe672a51bdf2315d&chksm=e8dd4b5fdfaac249a5c2a509ed09602960152ca55601eee24411b256c39b6dd2760c96f55703&mpshare=1&scene=1&srcid=0420h58JVvWmStBhbszYJEVG&sharer_sharetime=1681962026025&sharer_shareid=7479e236428bef2aa0b60d16a5cd9048#rd)
+
+[如何用AI提升工作效率？](https://mp.weixin.qq.com/s/JAXoCP_Ca_ksIvMdwgRjUw)
+
+[马斯克官宣！挑战微软和谷歌，将推出AI平台TruthGPT](https://mp.weixin.qq.com/s/Dyecn7vEuV4P5R2VVl8X7A)
+
+[爆火的Auto-GPT初探和两种安装方法教程，简单办法一分钟就可以搞定](https://mp.weixin.qq.com/s/Q0UI32zkiyu6gy82pt_WeQ)
+
 [Chroma 筹集了 1800 万美元的种子轮融资](https://www.trychroma.com/blog/seed)
 
 [吴军：ChatGPT七问七答](https://mp.weixin.qq.com/s?__biz=MzA3NjcxMjIxNQ==&mid=2650344038&idx=2&sn=cd608f05174bf7fba898dbe190805b26&scene=21#wechat_redirect)
