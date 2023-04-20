@@ -8,6 +8,8 @@
 
 
 
+
+
 [Chroma 筹集了 1800 万美元的种子轮融资](https://www.trychroma.com/blog/seed)
 
 [吴军：ChatGPT七问七答](https://mp.weixin.qq.com/s?__biz=MzA3NjcxMjIxNQ==&mid=2650344038&idx=2&sn=cd608f05174bf7fba898dbe190805b26&scene=21#wechat_redirect)
