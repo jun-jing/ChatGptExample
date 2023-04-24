@@ -8,7 +8,39 @@
 
 
 
+[GPT-4 让 Python 程序实现自修复 Bug，国外小哥将工具命名为“金刚狼”，并开源！](https://mp.weixin.qq.com/s/1HnHLoqZ5czKmYoi2f6rAw)
 
+[AI 输入法推荐](https://mp.weixin.qq.com/s/jDpLYerEC34-QGw7BmHcoA)
+
+[72岁王石苦劝年轻人干到老](https://mp.weixin.qq.com/s/1m2MUkFKBPSl417cj4LhiA)
+
+[极限体验：AI 无服务运行！](https://mp.weixin.qq.com/s/TJ8nQ5ChoxSxE-ZgQvVqVg)
+
+[是兄弟就来找ChatGPT漏洞，OpenAI：最高赏金2万刀](https://mp.weixin.qq.com/s/QRCQa6ieOBFSX1Yb8dXsFA)
+
+[没有显卡GPU，想用CPU玩Stable Diffusion 本地部署AI绘图吗？ 手把手保姆教程](https://mp.weixin.qq.com/s/cA03-8uUYMaPZyge6pOC7Q)
+
+[ChatGPT4.0在投资中的运用初探.pdf](ChatGPT最新资讯.assets\ChatGPT4.0在投资中的运用初探.pdf) 
+
+[一个免费开源插件，让你的 ChatGPT 不再频繁报错! 安装教程.pdf](ChatGPT最新资讯.assets\一个免费开源插件，让你的 ChatGPT 不再频繁报错! 安装教程.pdf) 
+
+[提问的艺术——让 ChatGPT 导出高质量答案.pdf](ChatGPT最新资讯.assets\提问的艺术——让 ChatGPT 导出高质量答案.pdf) 
+
+[LanguagePro - Text and Chat A](https://apps.apple.com/app/id1661247540)
+
+[马斯克将起诉微软，称其使用 Twitter 数据“非法”训练GPT，吃瓜网友：事情变得更有趣了！](https://mp.weixin.qq.com/s/AwKUS2GszXSBFPMb0uX5DQ)
+
+[一「/」唤起钉钉魔法！麻瓜打工人零门槛玩转AI，老板笑疯了](https://mp.weixin.qq.com/s/HnKfNfbLwjN9PXRIZhGRIA)
+
+[亚马逊云科技AIGC全家桶Bedrock炸裂登场，开放定制，隐私拉满](https://mp.weixin.qq.com/s/SutaLNisBMc9yCPxusykhw)
+
+[清华AIR开源轻量版BioMedGPT！聂再清：最终目标是生物医药领域基础大模型](https://mp.weixin.qq.com/s/nD430QsT5mOQOEbpM9IO2Q)
+
+[图片+音频秒变视频！西交大开源SadTalker：头、唇运动超自然，中英双语全能，还会唱歌](https://mp.weixin.qq.com/s/mIk_b_--8XfdNUHxJ_3Rhg)
+
+[Malleable software in the age of LLMs](https://www.geoffreylitt.com/2023/03/25/llm-end-user-programming.html)
+
+[陆奇最新演讲实录：我的大模型世界观](https://mp.weixin.qq.com/s/_ZvyxRpgIA4L4pqfcQtPTQ)
 
 [ChatGPT认知白皮书.pdf](ChatGPT最新资讯.assets\ChatGPT认知白皮书.pdf) 
 
