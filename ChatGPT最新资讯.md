@@ -8,6 +8,30 @@
 
 
 
+
+
+
+
+[万字长文：LLM - 大语言模型发展简史](https://mp.weixin.qq.com/s/nbO0kyZ5O-oqwLYXIA6b2w)
+
+[Hinton：人类就是机器，绝妙的机器](https://mp.weixin.qq.com/s/vNYMHFhXeEzz6Ny0p1pbNA)
+
+[谷歌突失Hinton！深度学习之父警告AI风险，对毕生工作表示遗憾](https://mp.weixin.qq.com/s/7XLa5d-UZ16O6Ead3MCanw)
+
+[免费！终极ChatGPT提示+Midjourney宝藏神图，1200+图片和咒语，震撼人心](https://mp.weixin.qq.com/s/FUcNzp5Dip8KI83kImPwmQ)
+
+[ChatGPT充当大脑，指挥AudioGPT解决语音、音乐、音效等任务](https://mp.weixin.qq.com/s/pesuhzQ3cfaz-bhxMew46g)
+
+[放弃反向传播后，Geoffrey Hinton参与的前向梯度学习重磅研究来了](https://mp.weixin.qq.com/s/xoW2DKfWYAoyPQp-b5cpTQ)
+
+[几行代码，GPT-3变ChatGPT！吴恩达高徒、华人CEO震撼发布Lamini引擎](https://mp.weixin.qq.com/s/k1D532Lhn6HISJVi67p-Kw)
+
+[致而立之年的自己](https://mp.weixin.qq.com/s/eCsdlq4qEUksK80pyQq5HA)
+
+[The Truth About Saying “Thanks” & “Please” To ChatGPT](https://ppangsy.medium.com/a-world-of-thanks-the-surprising-effects-of-chatgpt-appreciation-105f6e25fcce)
+
+[***AIGC业务分析20230503](ChatGPT最新资讯.assets\AIGC业务分析20230503.docx) 
+
 [GPT-4 让 Python 程序实现自修复 Bug，国外小哥将工具命名为“金刚狼”，并开源！](https://mp.weixin.qq.com/s/1HnHLoqZ5czKmYoi2f6rAw)
 
 [AI 输入法推荐](https://mp.weixin.qq.com/s/jDpLYerEC34-QGw7BmHcoA)
