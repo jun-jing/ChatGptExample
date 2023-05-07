@@ -6,11 +6,55 @@
 
 
 
+[]()
 
+[]()
 
+[]()
 
+[]()
 
+[]()
 
+[技术的乌托邦...](https://mp.weixin.qq.com/s/_3cYt46FKPmBqrNP20b8fA)
+
+[***StarCoder 代码助手: 愿源代码与你同在！](https://mp.weixin.qq.com/s/CVU2g_5jea1FMKMlb8LB3g)
+
+[自由 ≠ 免费，开源 ≠ 自由！](https://mp.weixin.qq.com/s/ER_9K8Avs2YefkCICLgxnA)
+
+[Bing Chat AI 驱动搜索：全面开放 • 多模态 • 持久化 • 插件化](https://mp.weixin.qq.com/s/5AZxPivGpMbYHZwkO_rKAw)
+
+[碎碎念：不确定性中的确定性！](https://mp.weixin.qq.com/s/VWVqXp2KjvOMyRw_HfcfpQ)
+
+[全面开放！微软 Bing Chat 人人可用，还要做搜索引擎的「App Store」](https://mp.weixin.qq.com/s/5xtSEKRDUGp1ikahG-xstw)
+
+[为什么ChatGPT引爆的AI浪潮与迅速盖过了Web3的风头，读这篇文章就够了](https://mp.weixin.qq.com/s/yGrNqcBAuL84nEoa05GtLg)
+
+[***万字长文：LLM - 大语言模型发展简史](https://mp.weixin.qq.com/s/nbO0kyZ5O-oqwLYXIA6b2w)
+
+[编程思想：解决问题之方法论](https://mp.weixin.qq.com/s/hU8N3Pkj0_ypGDre-RX5EA)
+
+[Stable Diffusion本地部署配置不够？我这里准备了云端部署](https://mp.weixin.qq.com/s/PW8_7jXD1ImcHiyedwVEDw)
+
+[致而立之年的自己](https://mp.weixin.qq.com/s/eCsdlq4qEUksK80pyQq5HA)
+
+[太快了，AutoGPT 横空出世！](https://mp.weixin.qq.com/s/P5bYxUNI2gRg64ddzkV2Nw)
+
+[AutoGPT横空出世！直接把程序员绝逼上路？](https://mp.weixin.qq.com/s/LXELvNAaDwE5I81aMTVPEQ)
+
+[ChatGPT 推出关闭聊天历史记录和导出功能](https://mp.weixin.qq.com/s/kW5jTljOSZT1b1MihlgO9g)
+
+[AI 助手推荐：移动端的生产力！](https://mp.weixin.qq.com/s/WTVkFZ3N8ys__9Gxy9GtTQ)
+
+[手把手教你ChatGPT Plus的保姆级开通教程！](https://mp.weixin.qq.com/s/taN-mrJZmKnpUvYRKr7CtQ)
+
+[26元每月！ChatGPT PLUS 2.0众筹计划超低价格，轻松享受Plus账号！](https://mp.weixin.qq.com/s/_E6DFUOyTM1H65DI7TRbDA)
+
+[ai如何赋能个体 --超级个体的崛起](https://bw54wz1lzj.feishu.cn/docx/TuwidX09QoWXQVxYMoxcF4JinCw)
+
+[突发！ChatGPT Plus停售](https://mp.weixin.qq.com/s/jRACvhd64Oos47r8og55aw)
+
+[国产版ChatGPT来了！华为盘古大模型即将亮相，理论性能接近GPT-3.5](https://mp.weixin.qq.com/s/vbgbhciHONNcAvhPdPLsjg)
 
 [万字长文：LLM - 大语言模型发展简史](https://mp.weixin.qq.com/s/nbO0kyZ5O-oqwLYXIA6b2w)
 
