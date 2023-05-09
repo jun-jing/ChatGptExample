@@ -16,6 +16,70 @@
 
 []()
 
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[看不下去AI胡说八道，英伟达出手给大模型安了个“护栏” | 开源](https://mp.weixin.qq.com/s/2YEDvOs7fFdaSOFxKTE4nQ)
+
+[幻觉？马斯克TruthGPT也搞不定！OpenAI联合创始人直言很复杂](https://mp.weixin.qq.com/s/FcI-MWFPk0ZE3p1kmTCkdA)
+
+[彻底解决ChatGPT健忘症！突破Transformer输入限制：实测支持200万个有效token](https://mp.weixin.qq.com/s/-24u_Zv0mWWfJia9CJwcoQ)
+
+[AI通灵！类ChatGPT模型解码大脑信息，准确率高达82%](https://mp.weixin.qq.com/s/4KbtJ5cfur7KrWWijjQtIA)
+
+[AI在劳动节淘汰7800打工人，永久的](https://mp.weixin.qq.com/s/crPVttsbyYWhBdRyWYSNDA)
+
+[斯坦福最新研究警告：别太迷信大模型涌现能力，那是度量选择的结果](https://mp.weixin.qq.com/s/tt9xYESUgw3V2c4XJu5ZVw)
+
+[Bing Chat AI 驱动搜索：全面开放 • 多模态 • 持久化 • 插件化](https://mp.weixin.qq.com/s/5AZxPivGpMbYHZwkO_rKAw)
+
+[自由 ≠ 免费，开源 ≠ 自由！](https://mp.weixin.qq.com/s/ER_9K8Avs2YefkCICLgxnA)
+
+[开源AltDiffusion-m18 ，18种语言文图生成all in one](https://mp.weixin.qq.com/s/XORBgtPSqp97nS3GxpJI_Q)
+
+[学而思研发面向全球数学爱好者大模型MathGPT](https://mp.weixin.qq.com/s/tGFH4kM3erzNRMf1r6RIwg)
+
+[“1024 直接对标 ChatGPT！”科大讯飞星火大模型立 Flag、一手实测来了](https://mp.weixin.qq.com/s/stJ2tGlr3exUU196k0-XwQ)
+
+[🤪 Midjourney 新奇玩法！](https://mp.weixin.qq.com/s/aNbQFGN1Y6-7P8VnDi6IRA)
+
+[01.课程简介_ChatGPT提示工程_吴恩达 & OpenAI](https://www.bilibili.com/video/BV1fk4y1J7Af/?spm_id_from=333.788&vd_source=bfcbe877ccf366715be6b9996153e788)
+
+[***星链订户突破150W，冲刺里程碑式盈利](https://mp.weixin.qq.com/s/Xv8S16k5eSJavxK-SIsyFA)
+
+[手把手教你ChatGPT Plus的保姆级开通教程！](https://mp.weixin.qq.com/s/taN-mrJZmKnpUvYRKr7CtQ)
+
+[呼吁暂停 GPT-5 研发的马斯克，转身抢购 1 万个 GPU，为 Twitter 大模型做准备！](https://mp.weixin.qq.com/s/i6cFLAQi1BYZGH7Xn-iUyw)
+
+[ChatGPT 的平替 Claude 使用指南](https://mp.weixin.qq.com/s/KbFdjPCGTv1aiQ7IS3790w)
+
+[**Midjourney 知识库**](https://tob-design.yuque.com/kxcufk/mj/)
+
+[DeepSpeed Chat：一键搞定不同规模 ChatGPT 类模型训练！](https://mp.weixin.qq.com/s/HhIGAojnZVSu4vMBpMP4yA)
+
+[微软开源DeepSpeed Chat，人人可快速训练百亿、千亿级ChatGPT大模型](https://finance.sina.cn/tech/2023-04-13/detail-imyqffyk6879402.d.html)
+
+[ChatGPT API KEY如何获取120$ 及充值Plus 会员方法 （ChatGPT注册+美国Visa虚拟信用卡注册）](https://mp.weixin.qq.com/s/DkIX38N77UQQLp8aZl95MQ)
+
+[用ChatGPT控制NPC，行动逼真如正常人！斯坦福谷歌新研究炸场](https://www.toutiao.com/article/7220674479016526375/?app=news_article&timestamp=1681223293&use_new_style=1&req_id=202304112228121E0F464A55DF87180F23&group_id=7220674479016526375&share_token=DE76AAEC-C234-45D2-B3FA-615C33806BAB&tt_from=weixin_moments&utm_source=weixin_moments&utm_medium=toutiao_ios&utm_campaign=client_share&wxshare_count=9&source=m_redirect&wid=1683605736137)
+
+[Pairing With GPT-4](https://fly.io/ruby-dispatch/pairing-with-gpt-4/)
+
+[ChatGPT Plugins开发官方文档中文版来了，值得每个想把握新一代APP Store机会的朋友细读](https://mp.weixin.qq.com/s/i7A9549PhLlSxpBWf-4LBg)
+
+[NoFWL：ChatGPT 桌面应用进阶版！](https://mp.weixin.qq.com/s/z8zhMvSuZsb_BID1XQf33g)
+
+[ChatGPT能自己跑代码了：提需求直接输入运行结果，网友内测后直呼“魔法”](https://mp.weixin.qq.com/s/Iw5qPHXNMkk-1qaP6J0i3g)
+
+[GPT-5不能停！吴恩达田渊栋反对千人联名，OpenAI CEO也发声了](https://mp.weixin.qq.com/s/j62gmj1TmL3VBAJecqfQWg)
+
+[GPT-5恐被叫停！马斯克、图灵奖得主等千名专家呼吁暂停超强AI研发，至少6个月](https://mp.weixin.qq.com/s/1AtPzUt0hB5ImSluET8tpA)
+
 [技术的乌托邦...](https://mp.weixin.qq.com/s/_3cYt46FKPmBqrNP20b8fA)
 
 [***StarCoder 代码助手: 愿源代码与你同在！](https://mp.weixin.qq.com/s/CVU2g_5jea1FMKMlb8LB3g)
