@@ -22,7 +22,63 @@
 
 []()
 
-[]()
+[ChatGPT 共享链接让精彩与互动继续！](https://mp.weixin.qq.com/s/Ya-cPw_F7Fltz_M6bCJrkg)
+
+[商汤、清华发布通才智能体完全解锁《我的世界》，像人类一样生存，探索和创造](https://mp.weixin.qq.com/s/iECSXLdAasrwNwQTruLP7g)
+
+[数学论证GPT-4不是随机鹦鹉：真如此的话整个宇宙都会坍缩](https://mp.weixin.qq.com/s/NsIaFwDfySNPnrJ2aLR6Fg)
+
+[英伟达AI智能体接入GPT-4，完胜AutoGPT！自主写代码独霸我的世界，无需人类插手](https://mp.weixin.qq.com/s/jaUeCl5pSs-sier89MXq1Q)
+
+[调教LLaMA类模型没那么难，LoRA将模型微调缩减到几小时](https://mp.weixin.qq.com/s/5uFIGw7TBHJA_Q26REG4OA)
+
+[单GPU实现99%ChatGPT性能，「原驼」火了：手机也能微调大模型](https://mp.weixin.qq.com/s/vqdGdcWyYmPKukW5jV6Pyw)
+
+[AI大模型接管谷歌搜索：一夜之间，整个领域变天了](https://mp.weixin.qq.com/s/excNshRYv-CXExBi9cZFCA)
+
+[ChatGPT 桌面应用 v1.0.0 发布啦！](https://mp.weixin.qq.com/s/jbQCws2G8hNdytIMPHHg0w)
+
+[AI 新纪元：Windows Copilot 和 Dev Home 重塑 Windows 11！](https://mp.weixin.qq.com/s/6Y1Owd01vz3Kt3Itfg9CRg)
+
+[孙燕姿回应AI孙燕姿！接受Al成顶流，人类无法超越已指日可待丨AI新职人](https://mp.weixin.qq.com/s/IEtcOym-I1qAJOxEVo1Ovg)
+
+[Meta MMS：将语音技术扩展到 1000 多种语言](https://mp.weixin.qq.com/s/geLbCwb4ePBaA81clugRDw)
+
+[** CoDi：通过可组合扩散实现任意生成](https://mp.weixin.qq.com/s/PQJaC9iFfyMgU60XCSlkCQ)
+
+[DragGAN：一种处理生成图像的新方法！](https://mp.weixin.qq.com/s/aYnE3vgEVoHUNCDeAB-4sg)
+
+[一站式 AI 真的会让程序员失业吗？](https://mp.weixin.qq.com/s/mxcOO2oAeXPlM6uXz4zWfw)
+
+[MJCN：Midjourney 中国是真的吗？](https://mp.weixin.qq.com/s/2WZoAJsa0PfS8veSQc3tPg)
+
+[无耻！极度无耻！Midjourney中国居然是假的！？](https://mp.weixin.qq.com/s/dN6w0t-9cdFpTtXTYwhigA)
+
+[【译】阿西莫夫：提示工程的开创者](https://mp.weixin.qq.com/s/M5ciKbe22aytrCtHlFVddg)
+
+[北京促进通用人工智能发展若干措施征意见！全文——](https://ie.bjd.com.cn/5b165687a010550e5ddc0e6a/contentApp/5b16573ae4b02a9fe2d558f9/AP6462b69fe4b085a329efc6ca)
+
+[探索 OpenAI 平台架构](https://mp.weixin.qq.com/s/7eO0LBJzaKiH7uEqs-UfCg)
+
+[GPT-4拿下最难数学推理数据集新SOTA，新型Prompting让大模型推理能力狂升](https://mp.weixin.qq.com/s/y8u40qIXm3oWZkvgKOV17Q)
+
+[49%的人害怕AI抢饭碗！2/3打工人时间不够用，微软年度工作趋势指数报告让人破防了](https://mp.weixin.qq.com/s/zivnNSrZlyhd8g_4WR5v7g)
+
+[开源揭秘：35k+ Stars ChatGPT 桌面应用](https://mp.weixin.qq.com/s/gEDYO4o65ZUX9v2T4gly-Q)
+
+[开放式 LLM 排行榜](https://mp.weixin.qq.com/s/jJktlIexli43PUvdnfmFtg)
+
+[Everything App: HuggingFace Transformers Agent](https://mp.weixin.qq.com/s/bS5frzE-QVwLMcbTHQ_rQQ)
+
+[如何更有效地向ChatGPT提问，获得高质量回答](https://articles.zsxq.com/id_v1vr87rujtvo.html)
+
+[Meta ImageBind：跨 6 种模态学习的 AI 模型](https://mp.weixin.qq.com/s/96fk5qZU7a2atWKB2Kxfsg)
+
+[** **AI/ML Sessions at Google I/O 2023**](https://www.youtube.com/playlist?list=PLOU2XLYxmsIKqt_HI3yc516rbBca_hli2)
+
+[lencx-ChatGPT-开源浅思.pdf](ChatGPT最新资讯.assets\lencx-ChatGPT-开源浅思.pdf)
+
+[ChatGPT高质量prompt技巧分享.pdf](ChatGPT最新资讯.assets\ChatGPT高质量prompt技巧分享.pdf)
 
 [看不下去AI胡说八道，英伟达出手给大模型安了个“护栏” | 开源](https://mp.weixin.qq.com/s/2YEDvOs7fFdaSOFxKTE4nQ)
 
