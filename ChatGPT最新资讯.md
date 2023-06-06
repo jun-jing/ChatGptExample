@@ -10,17 +10,49 @@
 
 []()
 
-[]()
+[AI大模型接管谷歌搜索：一夜之间，整个领域变天了](https://mp.weixin.qq.com/s/excNshRYv-CXExBi9cZFCA)
 
-[]()
+[单GPU实现99%ChatGPT性能，「原驼」火了：手机也能微调大模型](https://mp.weixin.qq.com/s/vqdGdcWyYmPKukW5jV6Pyw)
 
-[]()
+[调教LLaMA类模型没那么难，LoRA将模型微调缩减到几小时](https://mp.weixin.qq.com/s/5uFIGw7TBHJA_Q26REG4OA)
 
-[]()
+[英伟达AI智能体接入GPT-4，完胜AutoGPT！自主写代码独霸我的世界，无需人类插手](https://mp.weixin.qq.com/s/jaUeCl5pSs-sier89MXq1Q)
 
-[]()
+[数学论证GPT-4不是随机鹦鹉：真如此的话整个宇宙都会坍缩](https://mp.weixin.qq.com/s/NsIaFwDfySNPnrJ2aLR6Fg)
 
-[]()
+[商汤、清华发布通才智能体完全解锁《我的世界》，像人类一样生存，探索和创造](https://mp.weixin.qq.com/s/iECSXLdAasrwNwQTruLP7g)
+
+[ChatGPT 共享链接让精彩与互动继续！](https://mp.weixin.qq.com/s/Ya-cPw_F7Fltz_M6bCJrkg)
+
+[流量密码：ChatGPT 开源的一些思考](https://mp.weixin.qq.com/s/-lpQycfKVQ1gLKjoMrTvpA)
+
+[开源揭秘：35k+ Stars ChatGPT 桌面应用](https://mp.weixin.qq.com/s/gEDYO4o65ZUX9v2T4gly-Q)
+
+[ChatGPT 探索：Mr. Ranedeer 您的个性化 AI 导师！](https://mp.weixin.qq.com/s/2e2fO9nliIIWcie4ZI5lkw)
+
+[Prompts：ChatGPT 提示指南](https://mp.weixin.qq.com/s/kqWWu8tyA8JB56Eq1ZBBIA)
+
+[打破认知偏见：用批判性思维重塑你的世界观！](https://mp.weixin.qq.com/s/6tGpHg7_J3ZZNGwKr-F8tQ)
+
+[稚晖君刚拿了百度投资，估值被曝已超独角兽](https://mp.weixin.qq.com/s/A0MrnYKS_htJjYMA957F2g)
+
+[OpenAI：过程监督在数学推理中的新突破！](https://mp.weixin.qq.com/s/Y_s2hZUZpRghDUT9x3ps1Q)
+
+[如何在 ChatGPT 桌面应用无限使用 GPT-4?](https://mp.weixin.qq.com/s/tQU8209hiblfm3GLs8X0sw)
+
+[大卫复活！英伟达再造「神经朗基罗」，3D重建肌肉纹理肉眼可见](https://mp.weixin.qq.com/s/H0BnFExCRahcrkVwe6zzWg)
+
+[GPT-4变笨引爆舆论！文本代码质量都下降，OpenAI刚刚回应了降本减料质疑](https://mp.weixin.qq.com/s/K8W5Wy95YsDo8gfFyIUmvA)
+
+[奇绩创坛 2023 春季创业营路演日，共 60 个项目，100% 技术驱动](https://mp.weixin.qq.com/s/MEiO9ax7qhLmcqw2dyIfXA)
+
+[OpenAI、谷歌双标玩得溜：训练大模型用他人数据，却决不允许自身数据外流](https://mp.weixin.qq.com/s/J_tdkdDwM3FZ8zpPaccbKA)
+
+[碾压LLaMA，「猎鹰」彻底开源！400亿参数，万亿token训练，霸榜Hugging Face](https://mp.weixin.qq.com/s/ijKdM6IfibGKe8OP3OeUrw)
+
+[微信杂谈：今天群友给我上了一课！](https://mp.weixin.qq.com/s/ugEQyx8zNvlykxc7gBHdSQ)
+
+[拒绝短期利益，只做长期价值！](https://mp.weixin.qq.com/s/MeehSmhbInPW2LF8XOQpTw)
 
 [ChatGPT 共享链接让精彩与互动继续！](https://mp.weixin.qq.com/s/Ya-cPw_F7Fltz_M6bCJrkg)
 
