@@ -10,6 +10,42 @@
 
 []()
 
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[比尔·盖茨：人生的第二次革命性时刻来了 | 深度长文](https://mp.weixin.qq.com/s/O_KXJ8JjiqXFnaR3EHxSiA)
+
 [AI大模型接管谷歌搜索：一夜之间，整个领域变天了](https://mp.weixin.qq.com/s/excNshRYv-CXExBi9cZFCA)
 
 [单GPU实现99%ChatGPT性能，「原驼」火了：手机也能微调大模型](https://mp.weixin.qq.com/s/vqdGdcWyYmPKukW5jV6Pyw)
