@@ -26,23 +26,45 @@
 
 []()
 
-[]()
+[国产自研：低成本建设自有小程序平台 FinClip](https://mp.weixin.qq.com/s/KD5JDQLfJL2FNO1plrjAsA)
 
-[]()
+[DeepLearning.AI：吴恩达推出一系列短期免费 AI 课程](https://mp.weixin.qq.com/s/b5OTnTMwJB703YFKqWlZXQ)
 
-[]()
+[ChatGPT短视频脚本大全！短视频、故事、脚本、小红书全覆盖，超级实用！](https://mp.weixin.qq.com/s/ihPQRAs6HC9hp7l6XaRkbA)
 
-[]()
+[GAN逆袭归来！清华校友论文引爆AI绘图圈，一秒把大象P转身，Diffusion黯然失色](https://mp.weixin.qq.com/s/DBLMAEbVw6v4xH94-5Zl3w)
 
-[]()
+[DragGAN：一种处理生成图像的新方法！](https://mp.weixin.qq.com/s/aYnE3vgEVoHUNCDeAB-4sg)
 
-[]()
+[🧩 ChatGPT 插件概览表](https://mp.weixin.qq.com/s/XiGq4SMxv4U85GAsBjRoWQ)
 
-[]()
+[田渊栋新作：打开1层Transformer黑盒，注意力机制没那么神秘](https://mp.weixin.qq.com/s/FYT4XX9ZUsn7nbDdQtxs1w)
 
-[]()
+[ChatGPT 只会讲 25 个笑话，幽默是人类最后的屏障｜Hunt Good 周报](https://mp.weixin.qq.com/s/-1j8rpQ6HQPBvvLB4PvyjA)
 
-[]()
+[苹果头显 Vision Pro 隐藏的 18 个细节，我们给你找齐了](https://mp.weixin.qq.com/s/NEJuhC1z0RWiN2I5Ib0gTQ)
+
+[戴着苹果Vision Pro打麻将！NTU微软华人团队联手打造Otter-E，专为AR头显设计](https://mp.weixin.qq.com/s/x2-RanUhQcZ4IkBxbqbG-A)
+
+[视障用户也能用 Vision Pro ，苹果这些设计巧思值得「抄作业」| Feel Good 周报](https://mp.weixin.qq.com/s/DL7YlcLiNFTiRb90-f_3HA)
+
+[Hugging Face 推出免费 AI 音频课程！](https://mp.weixin.qq.com/s/4QVNSTCEMImTWqsquEO2BQ)
+
+[DeepMind AlphaDev：新算法将改变计算机基础](https://mp.weixin.qq.com/s/R2ulUqOpfEdzJzQjGgajCg)
+
+[别天天prompt了，这才是学习AI绘画的正确姿势](https://mp.weixin.qq.com/s/PT0uEnXfXhScFOkUAlC_fQ)
+
+[OpenAI API 重磅升级：支持函数调用，价格更亲民！](https://mp.weixin.qq.com/s/Lq19ffszauHyjvD2l4YS2w)
+
+[专访梅涛：多名科大校友支持创业，年底前做出超越Stable Diffusion的底层视觉模型](https://mp.weixin.qq.com/s/ZIDbmDpdj346EABiLTRLVw)
+
+[内斗、争夺客户……外媒揭开微软与OpenAI合作另一面](https://mp.weixin.qq.com/s/PxhP3s_g6FEcR0XFXreMjg)
+
+[为什么人工智能会拯救世界](https://a16z.com/2023/06/06/ai-will-save-the-world/)
+
+[通过预测人类注意力模型，创造令人愉快的用户体验](https://mp.weixin.qq.com/s/LeGi2yD6fxZAzc0hSZOzug)
+
+[iOS 17新功能让改密码能「反悔」/英特尔不再使用酷睿i系列命名/Google要求员工慎用AI](https://mp.weixin.qq.com/s/gIyk9Xw5wguIcbNqTr_10g)
 
 [比尔·盖茨：人生的第二次革命性时刻来了 | 深度长文](https://mp.weixin.qq.com/s/O_KXJ8JjiqXFnaR3EHxSiA)
 
