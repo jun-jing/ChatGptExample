@@ -26,7 +26,31 @@
 
 []()
 
-[]()
+[对话凯文·凯利：现在监管 AI 为时过早，应该允许「失控」](https://mp.weixin.qq.com/s/-P9j3OIBWSD23mVrpQdXVA)
+
+[中金：AI如何影响游戏行业？——变革中创新](https://mp.weixin.qq.com/s/cf0_2FVsBTaKfRFcW_rr2A)
+
+[Midjourney V5.2 使用指南](https://mp.weixin.qq.com/s/D9xxP8QOLq5q7pNRhYCc3w)
+
+[一键体验AIGC DeepFake图片换脸：喂饭级教程，无需微调Stable Diffusion模型](https://mp.weixin.qq.com/s/e-UEH4hskXBZP076VmLKvQ)
+
+[【ChatGPT历史分享】忠犬八公：永恒的忠诚与重逢](https://mp.weixin.qq.com/s/1l21N5fusicjGJpMFknigA)
+
+[OpenAI：过程监督在数学推理中的新突破！](https://mp.weixin.qq.com/s/Y_s2hZUZpRghDUT9x3ps1Q)
+
+[DeepLearning.AI：吴恩达推出一系列短期免费 AI 课程](https://mp.weixin.qq.com/s/b5OTnTMwJB703YFKqWlZXQ)
+
+[ChatGPT 帮助医生降低与患者的“医患矛盾”，让“临床”交流更人性化](https://mp.weixin.qq.com/s/TgNe6_37xYuTEdlHynn86A)
+
+[AI杀疯了！Topaz Video AI 3.3最新汉化版！附AI模型包！](https://mp.weixin.qq.com/s/iCJEuPkg_PzU7LD9-ZlD3A)
+
+[AI 绘画基于 Kaggle 10 分钟搭建 Stable Diffusion（保姆级教程）](https://juejin.cn/post/7247306840199135287)
+
+[史上最强AI修图项目 DragGAN拖拽式P图终于来了！无需安装 解压即用 ！](https://mp.weixin.qq.com/s/8nab9MSGxR4GBG81TvZNNA)
+
+[ChatGPT实战：项目管理](https://mp.weixin.qq.com/s/T_Hfe1aPBcOo5DadxglDfQ)
+
+[ChatGPT：GPT-4 架构揭秘](https://mp.weixin.qq.com/s/B-XQRuns_U9Li5jXW-sOuw)
 
 [Schools should teach AI to every child, according to Andrew Ng and Andrea Pasinetti](https://venturebeat.com/ai/schools-should-teach-ai-to-every-child-according-to-andrew-ng-and-andrea-pasinetti/)
 
