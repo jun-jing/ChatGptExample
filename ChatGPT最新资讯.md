@@ -26,6 +26,78 @@
 
 []()
 
+[]()
+
+[Schools should teach AI to every child, according to Andrew Ng and Andrea Pasinetti](https://venturebeat.com/ai/schools-should-teach-ai-to-every-child-according-to-andrew-ng-and-andrea-pasinetti/)
+
+[Vue.js作者尤雨溪启动“开源”新渠道](https://mp.weixin.qq.com/s/jFTXn2qPYenLQHlJXp1qog)
+
+[Percy Liang等人新研究：新必应等生成式搜索引擎可能没那么好用](https://mp.weixin.qq.com/s/If_kwdKiG3xPRyb8rtwWIw)
+
+[眼球反射解锁3D世界，黑镜成真！马里兰华人新作炸翻科幻迷](https://mp.weixin.qq.com/s/Oaa_8gxRoFGfWV19xc2Vew)
+
+[陶哲轩自曝用了「满血」GPT-4：人类对信息技术的期待全部需要校准](https://mp.weixin.qq.com/s/w27J9nA6Tea4RDn-_j_ibg)
+
+[如何用 ChatGPT 和你的卡片笔记对话？开源应用 Quivr 尝试](https://mp.weixin.qq.com/s/f9SjdRtKrMdyiTAX_OFVgA)
+
+[《麻省理工科技评论》中国“2023年中国智能计算创新人物”丨Call for Innovators](https://mp.weixin.qq.com/s/Wb31FVusbjFBerZktRTaTA)
+
+[ChatGPT 探索：创新营销的魔力](https://mp.weixin.qq.com/s/Zflx_ip4upfJrPBHBLzW3Q)
+
+[Midjourney V5.2 使用指南](https://mp.weixin.qq.com/s/D9xxP8QOLq5q7pNRhYCc3w)
+
+[Stability AI 发布 SDXL 0.9](https://mp.weixin.qq.com/s/rDWr0pkYsWKo83FxaMo1pA)
+
+[GPT-4 混合模型：8 个 2200 亿参数的专家模型？](https://mp.weixin.qq.com/s/PEqusMr1p4-T5piWUzbfzA)
+
+[微软宣布重大突破！10 年内打造量子超级计算机，科技发展实现 10 倍速](https://mp.weixin.qq.com/s/AUk82VKVRhbf3uAlyZFXmA)
+
+[Securely deploy LLMs inside VPCs with Hugging Face and Amazon SageMaker](https://www.philschmid.de/sagemaker-llm-vpc)
+
+[科技早报 | 马云亮相阿里云总部；ChatGPT加入芯片设计](https://mp.weixin.qq.com/s/g2xZ80Ugfeki9Y1tZ85qQQ)
+
+[OpenAI 考虑做 AI 应用商店 / 蔚来手机有望下半年发布 / 网红烘焙品牌申请破产](https://mp.weixin.qq.com/s/MgcoY2Cnch87yDo8egYHTg)
+
+[清华团队发现肿瘤免疫逃逸新机制，或能清除CAR-T治疗中的重要障碍](https://mp.weixin.qq.com/s/WNmFzh6IoKhv35R_8BLP0w)
+
+[能站、跳、飞、蹲的全能机器人！加州理工发布变形轮式机器人M4：实现八种运动模式，AI加持自主导航](https://mp.weixin.qq.com/s/7jHw-GW3e8KIhhS0L-2DSQ)
+
+[陶哲轩转赞！ChatGPT自动证明重大突破，10年后AI将称霸数学界](https://mp.weixin.qq.com/s/c4WfYES6P2LPc2Bwv1_dDw)
+
+[李开复麾下大模型公司零一万物上线，数十位核心成员就位](https://mp.weixin.qq.com/s/aOYvFoOWHZ2CRjMmHhLooA)
+
+[70年前他本想逃避考试，却影响了整个互联网](https://mp.weixin.qq.com/s/ECeI_quXx61FPtVtapTcQA)
+
+[时间的力量：坚持，投入与成果](https://mp.weixin.qq.com/s/RARaSYKlzkQWGvQeMv9qVg)
+
+[LLM Agent：构建 AI 大脑的机遇与挑战](https://mp.weixin.qq.com/s/rceZhbqx-r1xdzJa8N-fVw)
+
+[中国宣布从2023年8月1日起对镓、锗相关物项实施出口管制](https://mp.weixin.qq.com/s/V9_icWovzoaguye02JMAYg)
+
+[中国出口管制芯片重要原材料，美日韩都坐不住了](https://mp.weixin.qq.com/s/8JeEQZ23oZxyFJft07Xb7g)
+
+[荷兰宣布芯片设备出口管制新规定](https://mp.weixin.qq.com/s/fFU-uX0UJ0f5ECbyGtePOQ)
+
+[挤爆服务器，北大法律大模型ChatLaw火了：直接告诉你张三怎么判](https://mp.weixin.qq.com/s/w2dtKplrO90u2kwKcJqo_w)
+
+[0代码训练GPT-5？MIT微软证实GPT-4涌现自我纠错能力，智能体循环根据反馈让代码迭代！](https://mp.weixin.qq.com/s/XiyAwtOiEv2WHke-MDR6lg)
+
+[AI智能体卷爆大模型！AutoGPT等4大Agent打擂，「西部世界」谁将成为软件2.0？](https://mp.weixin.qq.com/s/b04F8oQfRaY2z-FjzA4pMw)
+
+[首发突破 500 万用户！扎克伯格用 INS 版 Twitter 狠狠地给了马斯克一记「左勾拳」](https://mp.weixin.qq.com/s/aWPGDsY4AOuC5xqgJB6YPA)
+
+[AIGC创业者，被刑拘了](https://mp.weixin.qq.com/s/NJ85e8O4CO5QxpAnXbdmTA) 
+
+[启明创投x未尽研究 生成式AI报告.pdf](ChatGPT最新资讯.assets\启明创投x未尽研究 生成式AI报告.pdf) 
+
+[ChatGPT 重大更新：代码解释器即将推出，GPT-4 API 全面开放！](https://mp.weixin.qq.com/s/G7ZurPiyL9CblDTHaogsdg)
+
+[ChatGPT 探索：Code Interpreter 高级指南](https://mp.weixin.qq.com/s/K_csi1oWDv5tEaeeKSlvwA)
+
+[Gpt 4-5](https://mp.weixin.qq.com/s/cexXvkbkxZNF8-ZD9Zplyg)
+
+[Virtual HQ for Remote Teams](https://www.gather.town/)
+
 [国产自研：低成本建设自有小程序平台 FinClip](https://mp.weixin.qq.com/s/KD5JDQLfJL2FNO1plrjAsA)
 
 [DeepLearning.AI：吴恩达推出一系列短期免费 AI 课程](https://mp.weixin.qq.com/s/b5OTnTMwJB703YFKqWlZXQ)
