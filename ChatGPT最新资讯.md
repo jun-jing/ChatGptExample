@@ -4,8 +4,6 @@
 
  [《投资尽职调查：投资逻辑、尽调方法、实战案例》.pdf](ChatGPT最新资讯.assets\《投资尽职调查：投资逻辑、尽调方法、实战案例》.pdf) 
 
-
-
 []()
 
 []()
@@ -16,15 +14,69 @@
 
 []()
 
-[]()
+[体验升级：ChatGPT 支持自定义指令](https://mp.weixin.qq.com/s/x1bfW5pSgPGhL4j97R7Gsw)
 
-[]()
+[∞% faster，它开源十年后终于发布1.0版本](https://mp.weixin.qq.com/s/HOU8Th03T2dpoOULBuRQNg)
 
-[]()
+[程序员神器VS Code再提速，将内置JS减小20%！](https://mp.weixin.qq.com/s/jPyyO0QHSqRGLi1OcTDHCA)
 
-[]()
+[ChatGPT：Code Interpreter == GPT-4.5？](https://mp.weixin.qq.com/s/cexXvkbkxZNF8-ZD9Zplyg)
 
-[]()
+[GPT-4最大竞争对手Claude 2震撼发布！一次10万token免费用，代码、数学、推理史诗级提升](https://mp.weixin.qq.com/s/n2vRkQT44N4OwhjvXHvjCQ)
+
+[超大杯Stable Diffusion免费来袭！「最强文生图开放模型」，提示词也更简单](https://mp.weixin.qq.com/s/SHCCebjNV7z_gLGU37OzvQ)
+
+[What We Know About LLMs  (Primer)](https://willthompson.name/what-we-know-about-llms-primer)
+
+[A Survey of Large Language Models](https://arxiv.org/abs/2303.18223)
+
+[LLaMA 2：免费可商用的开源大语言模型](LLaMA 2：免费可商用的开源大语言模型)
+
+[大神回归学界：何恺明宣布加入 MIT](https://mp.weixin.qq.com/s/MwPMBESMtVTjjAfjGQPsLA)
+
+[Python社区变天：可去除全局解释器锁GIL，真正多线程要来了](https://mp.weixin.qq.com/s/jvjrZkSA8gQ4zgTv92ZXKA)
+
+[硬核经验：AI 平台化的一些探索](https://mp.weixin.qq.com/s/eXbSA-s4jq_kKQe_sEpMrA)
+
+[11 年前，我们遇见了微信公众平台](https://mp.weixin.qq.com/s/ZtvqwxRICyChxotLGtybAA)
+
+[****「2023年度演讲全文」雷军：成长的经历和感悟](https://mp.weixin.qq.com/s/xbsVTWvUzYOmZFbosvdneA)
+
+[谷歌全栈多平台应用开发神器Project IDX来了！PaLM 2加持，代码效率翻倍](https://mp.weixin.qq.com/s/YUvA612VBS-GAkFlX4HCCQ)
+
+[斯坦福的「虚拟小镇」开源了：25个AI智能体照进《西部世界》](https://mp.weixin.qq.com/s/nk_kvDcpRU5qJ30naQXVyw)
+
+[快手APP上了大模型对话，这是机器之心一手体验](https://mp.weixin.qq.com/s/DyDsSEYmjO2J8lKlcCAhyw)
+
+[Llama2开源后，国产大模型在卷什么？](https://mp.weixin.qq.com/s/E7nE1m6-DlhETBT1o_1ecQ)
+
+[耗时2年，Meta联手CMU打造最强「通用机器人智能体」！上茶擦碗多面手，轻松泛化100多种未知任务](https://mp.weixin.qq.com/s/8NCe4YeREKZoFgDx2jM71g)
+
+[动嘴让梵高神作动起来！朱俊彦团队最新AI模型，文本可控河流方向，电影细腻质感全现](https://mp.weixin.qq.com/s/HScB9KI4UxzVPB0hyYIR2Q)
+
+[Electron 加密：让你的源代码更安全](https://mp.weixin.qq.com/s/hqX8C8XRc3BavFMYgkWE4w)
+
+[SDXL LoRA 模型推荐](https://mp.weixin.qq.com/s/No79iRkb5lR4nh-r11r7wQ)
+
+[WebUI v1.6 发布，SDXL 油画微调模型，冠军级无人机竞赛，Chrome 全新 UI，Copilot Chat](https://mp.weixin.qq.com/s/_o-dHE6BRO9UExPFgZv_uw)
+
+[百度垂类离线计算系统发展历程](https://mp.weixin.qq.com/s/8Jlsb8sw9xHDXa6wH-YqxQ)
+
+[700亿参数Llama 2训练加速195%！训练/微调/推理全流程方案开源，0代码一站解决](https://mp.weixin.qq.com/s/NYZfoPFdIE5BqI_O4hJ-EA)
+
+[**AI时代，孩子们还需要老师吗？ | TED](https://mp.weixin.qq.com/s/evSMvd8qvx9efyBt3V_BnA)
+
+[全国多地华为门店抢购 Mate60 Pro / GPT-5 正在秘密训练中 / 12306 回应二等座和无座同价](https://mp.weixin.qq.com/s/8oGO1mT0-P8W6ieKEjKojg)
+
+[全球近 50 亿网民，正在成为 AI 成人内容的受害者](https://mp.weixin.qq.com/s/_8jpqwu6JSHJ5-bdFbFCHA)
+
+[Chrome 117：Web 开发调试技巧](https://mp.weixin.qq.com/s/2iBYXSO5Vik6RJAEIXtqoA)
+
+[重磅｜Falcon 180B 正式在 Hugging Face Hub 上发布！](https://mp.weixin.qq.com/s/JMbJcFwBeKFeRbmo5Sa8Qw)
+
+[ChatGPT 集成 DALL-E 3，多模态 AI 即将来临](https://mp.weixin.qq.com/s/eTimZ8ZuTASyMQBfe59dbQ)
+
+[ChatGPT 会是下一代打工人吗？](https://mp.weixin.qq.com/s/VnWqI7gyJvCesY3DWgxvDw)
 
 [对话凯文·凯利：现在监管 AI 为时过早，应该允许「失控」](https://mp.weixin.qq.com/s/-P9j3OIBWSD23mVrpQdXVA)
 
